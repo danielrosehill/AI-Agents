@@ -1,6 +1,7 @@
 # 🤖 AI Agent Index
 
 [![GitHub](https://img.shields.io/badge/GitHub-danielrosehill-blue?style=flat-square&logo=github)](https://github.com/danielrosehill)
+[![N8N Profile](https://img.shields.io/badge/N8N-Profile-orange?style=flat-square&logo=n8n)](https://n8n.io/workflows/4197-improve-ai-agent-system-prompts-with-gpt-4o-feedback-analysis-and-email-delivery/)
 [![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-July%202025-green?style=flat-square)](https://github.com/danielrosehill/AI-Agents)
 [![AI Agents](https://img.shields.io/badge/AI%20Agents-30+-brightgreen?style=flat-square)](https://github.com/danielrosehill/AI-Agents)
@@ -129,12 +130,7 @@ A periodically updated list of AI agent configurations I have shared on GitHub a
 
 ---
 
-## 🤝 Contributing
-
-This index is maintained manually but contributions are welcome! If you notice any missing projects, broken links, or have suggestions for improvements:
-
-1. 🐛 **Report Issues**: [Open an issue](https://github.com/danielrosehill/AI-Agents/issues) for bugs or missing information
-2. 💡 **Suggest Additions**: Recommend new AI agents or projects to include
+ lude
 3. 🔧 **Submit Updates**: Help keep descriptions and links current
 
 ### Repository Structure
@@ -152,20 +148,4 @@ This index is maintained manually but contributions are welcome! If you notice a
 └── for-ai/                            # Internal working files
 ```
 
----
-
-## 📄 License
-
-This project is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
-
----
-
-<div align="center">
-
-**🤖 Exploring the Future of AI Automation**
-
-[![GitHub Profile](https://img.shields.io/badge/Follow-@danielrosehill-blue?style=social&logo=github)](https://github.com/danielrosehill)
-
-*Last updated: July 2025*
-
-</div>
+ 
